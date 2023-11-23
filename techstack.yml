@@ -1,0 +1,27 @@
+repo_name: zaknbur/hello-world
+report_id: 98d67d1498dd1adca5a39f915ea810ee
+repo_type: Public
+timestamp: '2023-11-23T15:30:31+00:00'
+requested_by: zaknbur
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: index.html
+  last_updated_by: zaknbur
+  last_updated_on: 2014-11-17 21:01:35.000000000 Z
